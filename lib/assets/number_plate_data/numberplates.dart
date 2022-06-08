@@ -1595,3271 +1595,4705 @@ class Numberplates {
     },
     {
       "plate": "FS",
-      "origin": "FreiSing",
-      "city": "Landkreis Freising",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Freising", "isCorrectAnswer": true},
+        {"answer": "Freudenstadt", "isCorrectAnswer": false},
+        {"answer": "Füssen", "isCorrectAnswer": false},
+        {"answer": "Forst", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "FT",
-      "origin": "FrankenThal",
-      "city": "Stadt Frankenthal (Pfalz)",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Frankenthal", "isCorrectAnswer": true},
+        {"answer": "Fürth", "isCorrectAnswer": false},
+        {"answer": "Feucht", "isCorrectAnswer": false},
+        {"answer": "Freital", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "FTL",
-      "origin": "FreiTaL",
-      "city": "Landkreis Sächsische Schweiz-Osterzgebirge",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Freital", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "FÜ",
-      "origin": "FÜrth",
-      "city": "Landkreis Fürth, Stadt Fürth (AA–ZZ 100–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Fürth", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "FÜS",
-      "origin": "FÜSsen",
-      "city": "Landkreis Ostallgäu",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Füssen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "FW",
-      "origin": "FürstenWalde",
-      "city": "Landkreis Oder-Spree",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Fürstenwalde", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "FZ",
-      "origin": "FritZlar",
-      "city": "Schwalm-Eder-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Fritzlar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "G",
-      "origin": "Gera",
-      "city": "Stadt Gera",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Gera", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GA",
-      "origin": "GArdelegen",
-      "city": "Altmarkkreis Salzwedel",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Gardelegen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GAN",
-      "origin": "GANdersheim",
-      "city": "Landkreis Northeim",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Gandersheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GAP",
-      "origin": "GArmisch-Partenkirchen",
-      "city": "Landkreis Garmisch-Partenkirchen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Garmisch-Partenkirchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GC",
-      "origin": "GlauChau",
-      "city": "Landkreis Zwickau",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Glauchau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GD",
-      "origin": "GmünD",
-      "city": "Ostalbkreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Gmünd", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GDB",
-      "origin": "GaDeBusch",
-      "city": "Landkreis Nordwestmecklenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Gadebusch", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GE",
-      "origin": "GElsenkirchen",
-      "city": "Stadt Gelsenkirchen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Gelsenkirchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GEL",
-      "origin": "GELdern",
-      "city": "Kreis Kleve",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Geldern", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GEO",
-      "origin": "GErOlzhofen",
-      "city": "Landkreis Schweinfurt, Landkreis Haßberge (A und B 1000–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Gerolzhofen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GER",
-      "origin": "GERmersheim",
-      "city": "Landkreis Germersheim",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Germersheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GF",
-      "origin": "GiFhorn",
-      "city": "Landkreis Gifhorn",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Gifhorn", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GG",
-      "origin": "Groß-Gerau",
-      "city": "Kreis Groß-Gerau",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Groß-Gerau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GHA",
-      "origin": "GeitHAin",
-      "city": "Landkreis Leipzig",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Geithain", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GHC",
-      "origin": "GräfenHainiChen",
-      "city": "Landkreis Wittenberg",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Gräfenhainichen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GI",
-      "origin": "GIeßen",
-      "city": "Landkreis Gießen",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Gießen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GK",
-      "origin": "GeilenKirchen",
-      "city": "Kreis Heinsberg",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Geilenkirchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GL",
-      "origin": "GLadbach",
-      "city": "Rheinisch-Bergischer Kreis",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Gladbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GLA",
-      "origin": "GLAdbeck",
-      "city": "Kreis Recklinghausen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Gladbeck", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GM",
-      "origin": "GumMersbach",
-      "city": "Oberbergischer Kreis",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Gummersbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GMN",
-      "origin": "GrimMeN",
-      "city": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Grimmen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GN",
-      "origin": "GelnhauseN",
-      "city": "Main-Kinzig-Kreis ohne die Stadt Hanau",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Gelnhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GNT",
-      "origin": "GeNThin",
-      "city": "Landkreis Jerichower Land",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Genthin", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GÖ",
-      "origin": "GÖttingen",
-      "city": "Landkreis Göttingen, Stadt Göttingen",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Göttingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GOA",
-      "origin": "GOAr",
-      "city": "Rhein-Hunsrück-Kreis",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Goar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GOH",
-      "origin": "GOarsHausen",
-      "city": "Rhein-Lahn-Kreis",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Goarshausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GP",
-      "origin": "GöpPingen",
-      "city": "Landkreis Göppingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Göppingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GR",
-      "origin": "GöRlitz",
-      "city": "Landkreis Görlitz",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Görlitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GRA",
-      "origin": "GRAfenau",
-      "city": "Landkreis Freyung-Grafenau",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Grafenau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GRH",
-      "origin": "GRoßenHain",
-      "city": "Landkreis Meißen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Großenhain", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GRI",
-      "origin": "GRIesbach",
-      "city": "Landkreis Rottal-Inn (B, I, O und Q 100–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Griesbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GRM",
-      "origin": "GRimMa",
-      "city": "Landkreis Leipzig",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Grimma", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GRZ",
-      "origin": "GReiZ",
-      "city": "Landkreis Greiz",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Greiz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GS",
-      "origin": "GoSlar",
-      "city": "Landkreis Goslar",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Goslar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GT",
-      "origin": "GüTersloh",
-      "city": "Kreis Gütersloh",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Gütersloh", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GTH",
-      "origin": "GoTHa",
-      "city": "Landkreis Gotha",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Gotha", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GÜ",
-      "origin": "GÜstrow",
-      "city": "Landkreis Rostock",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Güstrow", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GUB",
-      "origin": "GUBen",
-      "city": "Landkreis Spree-Neiße",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Guben", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GUN",
-      "origin": "GUNzenhausen",
-      "city": "Landkreis Weißenburg-Gunzenhausen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Gunzenhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GV",
-      "origin": "GreVenbroich",
-      "city": "Rhein-Kreis Neuss",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Grevenbroich", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GVM",
-      "origin": "GreVesMühlen",
-      "city": "Landkreis Nordwestmecklenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Grevesmühlen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GW",
-      "origin": "GreifsWald",
-      "city": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Greifswald", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "GZ",
-      "origin": "GünZburg",
-      "city": "Landkreis Günzburg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Günzburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "H",
-      "origin": "Hannover",
-      "city": "Region Hannover",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Hannover", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HA",
-      "origin": "HAgen",
-      "city": "Stadt Hagen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Hagen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HAB",
-      "origin": "HAmmelBurg",
-      "city": "Landkreis Bad Kissingen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Hammelburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HAL",
-      "origin": "HALle",
-      "city": "Stadt Halle (Saale)",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Halle", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HAM",
-      "origin": "HAMm",
-      "city": "Stadt Hamm",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Hamm", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HAS",
-      "origin": "HASsfurt",
-      "city": "Landkreis Haßberge",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Hassfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HB",
-      "origin": "Hansestadt Bremen",
-      "city":
-          "Stadt Bremen, Senat und Bürgerschaft, Stadt Bremerhaven (A–Z 1000–9999)",
-      "state": "Bremen"
+      "answers": [
+        {"answer": "Hansestadt Bremen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HBN",
-      "origin": "HildBurghauseN",
-      "city": "Landkreis Hildburghausen",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Hildburghausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HBS",
-      "origin": "HalBerStadt",
-      "city": "Landkreis Harz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Halberstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HC",
-      "origin": "HainiChen",
-      "city": "Landkreis Mittelsachsen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Hainichen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HCH",
-      "origin": "HeCHingen",
-      "city":
-          "Zollernalbkreis, Landkreis Freudenstadt (YQ, QY, YV, VY und ZQ 100 bis 999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Hechingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HD",
-      "origin": "HeiDelberg",
-      "city": "Stadt Heidelberg, Rhein-Neckar-Kreis (AA–ZZ 100–9999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Heidelberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HDH",
-      "origin": "HeiDenHeim",
-      "city": "Landkreis Heidenheim",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Heidenheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HDL",
-      "origin": "HalDensLeben",
-      "city": "Landkreis Börde",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Haldensleben", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HE",
-      "origin": "HElmstedt",
-      "city": "Landkreis Helmstedt",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Helmstedt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HEB",
-      "origin": "HErsBruck",
-      "city": "Landkreis Nürnberger Land",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Hersbruck", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HEF",
-      "origin": "HErsFeld",
-      "city": "Landkreis Hersfeld-Rotenburg",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Hersfeld", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HEI",
-      "origin": "HEIde",
-      "city": "Kreis Dithmarschen",
-      "state": "Schleswig-Holstein"
-    },
-    {
-      "plate": "HEL",
-      "origin": "HEssischer Landtag",
-      "city": "Hessen, Landesregierung und Landtag",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Heide", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HER",
-      "origin": "HERne",
-      "city": "Stadt Herne",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Herne", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HET",
-      "origin": "HETtstedt",
-      "city": "Landkreis Mansfeld-Südharz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Hettstedt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HF",
-      "origin": "HerFord",
-      "city": "Kreis Herford",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Herford", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HG",
-      "origin": "HomburG",
-      "city": "Hochtaunuskreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Homburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HGN",
-      "origin": "HaGeNow",
-      "city": "Landkreis Ludwigslust-Parchim",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Hagenow", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HGW",
-      "origin": "Hansestadt GreifsWald",
-      "city":
-          "Stadt Greifswald (große kreisangehörige Stadt im Landkreis Vorpommern-Greifswald)",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Hansestadt Greifswald", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HH",
-      "origin": "Hansestadt Hamburg",
-      "city": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft",
-      "state": "Hamburg"
+      "answers": [
+        {"answer": "Hansestadt Hamburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HHM",
-      "origin": "HoHenMölsen",
-      "city": "Burgenlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Hohenmölsen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HI",
-      "origin": "HIldesheim",
-      "city": "Landkreis Hildesheim",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Hildesheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HIG",
-      "origin": "HeilIGenstadt",
-      "city": "Landkreis Eichsfeld",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Heiligenstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HIP",
-      "origin": "HIlPoltstein",
-      "city": "Landkreis Roth",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Hilpoltstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HK",
-      "origin": "HeideKreis",
-      "city": "Landkreis Heidekreis",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Heidekreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HL",
-      "origin": "Hansestadt Lübeck",
-      "city": "Stadt Lübeck",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Hansestadt Lübeck", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HM",
-      "origin": "HaMeln",
-      "city": "Landkreis Hameln-Pyrmont",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Hameln", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HMÜ",
-      "origin": "Hann. MÜnden",
-      "city": "Landkreis Göttingen ohne die Stadt Göttingen",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Hann, Münden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HN",
-      "origin": "HeilbronN",
-      "city":
-          "Stadt Heilbronn, Landkreis Heilbronn (AA–MZ 100–9999 und NA–ZZ 100–999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Heilbronn", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HO",
-      "origin": "HOf",
-      "city": "Stadt Hof, Landkreis Hof (AA–ZZ 100–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Hof", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HOG",
-      "origin": "HOfGeismar",
-      "city": "Landkreis Kassel",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Hofgeismar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HOH",
-      "origin": "HOfHeim",
-      "city": "Landkreis Haßberge",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Hofheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HOL",
-      "origin": "HOLzminden",
-      "city": "Landkreis Holzminden",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Holzminden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HOM",
-      "origin": "HOMburg",
-      "city": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Homburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HOR",
-      "origin": "HORb",
-      "city": "Landkreis Freudenstadt",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Horb", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HÖS",
-      "origin": "HÖchStadt",
-      "city": "Landkreis Erlangen-Höchstadt",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Höchstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HOT",
-      "origin": "HOhensTein",
-      "city": "Landkreis Zwickau",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Hohenstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HP",
-      "origin": "HepPenheim",
-      "city": "Kreis Bergstraße",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Heppenheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HR",
-      "origin": "HombeRg",
-      "city": "Schwalm-Eder-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Homberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HRO",
-      "origin": "Hansestadt ROstock",
-      "city": "Stadt Rostock",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Hansestadt Rostock", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HS",
-      "origin": "HeinSberg",
-      "city": "Kreis Heinsberg",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Heinsberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HSK",
-      "origin": "HochSauerlandKreis",
-      "city": "Hochsauerlandkreis",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Hochsauerlandkreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HST",
-      "origin": "Hansestadt STralsund",
-      "city":
-          "Stadt Stralsund (große kreisangehörige Stadt im Landkreis Vorpommern-Rügen)",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Hansestadt Stralsund", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HU",
-      "origin": "HanaU",
-      "city":
-          "Stadt Hanau (Sonderstatusstadt im Main-Kinzig-Kreis), Main-Kinzig-Kreis (übriges Kreisgebiet)",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Hanau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HV",
-      "origin": "HaVelberg",
-      "city": "Landkreis Stendal",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Havelberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HVL",
-      "origin": "HaVelLand",
-      "city": "Landkreis Havelland",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Havelland", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HWI",
-      "origin": "Hansestadt WIsmar",
-      "city":
-          "Stadt Wismar (große kreisangehörige Stadt im Landkreis Nordwestmecklenburg)",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Hansestadt Wismar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HX",
-      "origin": "HöXter",
-      "city": "Kreis Höxter",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Höxter", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HY",
-      "origin": "HoYerswerda",
-      "city": "Landkreis Bautzen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Hoyerswerda", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "HZ",
-      "origin": "HarZ",
-      "city": "Landkreis Harz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Harz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "IGB",
-      "origin": "InGBert",
-      "city": "Stadt St. Ingbert (Mittelstadt im Saarpfalz-Kreis)",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Ingbert", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "IK",
-      "origin": "Ilm-Kreis",
-      "city": "Ilm-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Ilm-Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "IL",
-      "origin": "ILmenau",
-      "city": "Ilm-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Ilmenau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ILL",
-      "origin": "ILLertissen",
-      "city": "Landkreis Neu-Ulm",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Illertissen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "IN",
-      "origin": "INgolstadt",
-      "city": "Stadt Ingolstadt",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Ingolstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "IZ",
-      "origin": "ItZehoe",
-      "city": "Kreis Steinburg",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Itzehoe", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "J",
-      "origin": "Jena",
-      "city": "Stadt Jena",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Jena", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "JE",
-      "origin": "JEssen",
-      "city": "Landkreis Wittenberg",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Jessen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "JL",
-      "origin": "Jerichower Land",
-      "city": "Landkreis Jerichower Land",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Jerichower Land", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "JÜL",
-      "origin": "JÜLich",
-      "city": "Kreis Düren",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Jülich", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "K",
-      "origin": "Köln",
-      "city": "Stadt Köln",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Köln", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KA",
-      "origin": "KArlsruhe",
-      "city":
-          "Landkreis Karlsruhe, Stadt Karlsruhe (AA–MZ 100–999 und NA–ZZ 100–9999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Karlsruhe", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KB",
-      "origin": "KorBach",
-      "city": "Landkreis Waldeck-Frankenberg",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Korbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KC",
-      "origin": "KronaCh",
-      "city": "Landkreis Kronach",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kronach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KE",
-      "origin": "KEmpten",
-      "city": "Stadt Kempten (Allgäu)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kempten", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KEH",
-      "origin": "KElHeim",
-      "city": "Landkreis Kelheim",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kelheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KEL",
-      "origin": "KEhL",
-      "city": "Ortenaukreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Kehl", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KEM",
-      "origin": "KEMnath",
-      "city":
-          "Landkreis Tirschenreuth, Landkreis Bayreuth (AT, BT, CT, DT, ... YT und ZT 1–99)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kemnath", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KF",
-      "origin": "KauFbeuren",
-      "city": "Stadt Kaufbeuren",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kaufbeuren", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KG",
-      "origin": "KissinGen",
-      "city": "Landkreis Bad Kissingen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kissingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KH",
-      "origin": "KreuznacH",
-      "city": "Landkreis Bad Kreuznach",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Kreuznach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KI",
-      "origin": "KIel",
-      "city": "Stadt Kiel",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Kiel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KIB",
-      "origin": "KIrchheimBolanden",
-      "city": "Donnersbergkreis",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Kirchheimbolanden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KK",
-      "origin": "Kempen, Krefeld",
-      "city": "Kreis Viersen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Kempen, Krefeld", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KL",
-      "origin": "KaisersLautern",
-      "city": "Stadt Kaiserslautern, Landkreis Kaiserslautern (AA–ZZ 100–999)",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Kaiserslautern", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KLE",
-      "origin": "KLEve",
-      "city": "Kreis Kleve",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Kleve", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KLZ",
-      "origin": "KLötZe",
-      "city": "Altmarkkreis Salzwedel",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Klötze", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KM",
-      "origin": "KaMenz",
-      "city": "Landkreis Bautzen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Kamenz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KN",
-      "origin": "KoNstanz",
-      "city": "Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Konstanz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KO",
-      "origin": "KOblenz",
-      "city": "Stadt Koblenz",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Koblenz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KÖN",
-      "origin": "KÖNigshofen",
-      "city": "Landkreis Rhön-Grabfeld",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Königshofen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KÖT",
-      "origin": "KÖThen",
-      "city": "Landkreis Anhalt-Bitterfeld",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Köthen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KÖZ",
-      "origin": "KÖtZting",
-      "city": "Landkreis Cham",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kötzting", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KR",
-      "origin": "KRefeld",
-      "city": "Stadt Krefeld",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Krefeld", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KRU",
-      "origin": "KRUmbach",
-      "city": "Landkreis Günzburg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Krumbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KS",
-      "origin": "KasSel",
-      "city": "Landkreis Kassel und Stadt Kassel",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Kassel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KT",
-      "origin": "KiTzingen",
-      "city": "Landkreis Kitzingen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kitzingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KU",
-      "origin": "KUlmbach",
-      "city": "Landkreis Kulmbach",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Kulmbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KÜN",
-      "origin": "KÜNzelsau",
-      "city": "Hohenlohekreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Künzelsau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KUS",
-      "origin": "KUSel",
-      "city": "Landkreis Kusel",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Kusel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KW",
-      "origin": "Königs Wusterhausen",
-      "city": "Landkreis Dahme-Spreewald",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Königs Wusterhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KY",
-      "origin": "KYritz",
-      "city": "Landkreis Ostprignitz-Ruppin",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Kyritz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "KYF",
-      "origin": "KYFfhäuser",
-      "city": "Kyffhäuserkreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Kyffhäuser", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "L",
-      "origin": "Leipzig",
-      "city": "Sachsen",
-      "state":
-          "Stadt Leipzig (A–T und AA–TZ), Landkreis Leipzig (U–Z und UA–ZZ)"
+      "answers": [
+        {"answer": "Leipzig", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LA",
-      "origin": "LAndshut",
-      "city":
-          "Stadt Landshut, Landkreis Landshut (AA–ZZ 100–999 und 5000–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Landshut", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LAN",
-      "origin": "LANdau",
-      "city": "Landkreis Dingolfing-Landau",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Landau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LAU",
-      "origin": "LAUf",
-      "city": "Landkreis Nürnberger Land",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Lauf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LB",
-      "origin": "LudwigsBurg",
-      "city": "Landkreis Ludwigsburg",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Ludwigsburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LBS",
-      "origin": "LoBenStein",
-      "city": "Saale-Orla-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Lobenstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LBZ",
-      "origin": "LüBZ",
-      "city": "Landkreis Ludwigslust-Parchim",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Lübz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LC",
-      "origin": "LuCkau",
-      "city": "Landkreis Dahme-Spreewald",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Luckau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LD",
-      "origin": "LanDau",
-      "city": "Stadt Landau in der Pfalz",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Landau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LDK",
-      "origin": "Lahn-Dill-Kreis",
-      "city": "Lahn-Dill-Kreis ohne die Stadt Wetzlar",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Lahn-Dill-Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LDS",
-      "origin": "Landkreis Dahme-Spreewald",
-      "city": "Landkreis Dahme-Spreewald",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Landkreis Dahme-Spreewald", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LEO",
-      "origin": "LEOnberg",
-      "city": "Landkreis Böblingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Leonberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LER",
-      "origin": "LEeR",
-      "city": "Landkreis Leer",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Leer", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LEV",
-      "origin": "LEVerkusen",
-      "city": "Stadt Leverkusen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Leverkusen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LF",
-      "origin": "LauFen",
-      "city":
-          "Landkreis Berchtesgadener Land, Landkreis Altötting (C 1–999, E 1–500, I, J, M, O, Q und V 1–999), Landkreis Traunstein (B, F und G 1–999, DH 1–100, FZ, GH und KQ 1–999, LU 1–200, RW 1–999, TK 1–100, TS 1–999, VW 200–400 sowie WW, XX und ZZ 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Laufen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LG",
-      "origin": "LüneburG",
-      "city": "Landkreis Lüneburg",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Lüneburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LH",
-      "origin": "LüdingHausen",
-      "city": "Kreis Coesfeld, Kreis Unna",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Lüdinghausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LI",
-      "origin": "LIndau",
-      "city": "Landkreis Lindau (Bodensee)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Lindau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LIB",
-      "origin": "LIeBenwerda",
-      "city": "Landkreis Elbe-Elster",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Liebenwerda", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LIF",
-      "origin": "LIchtenFels",
-      "city": "Landkreis Lichtenfels",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Lichtenfels", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LIP",
-      "origin": "LIPpe",
-      "city": "Kreis Lippe",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Lippe", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LL",
-      "origin": "Landsberg am Lech",
-      "city": "Landkreis Landsberg am Lech",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Landsberg am Lech", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LM",
-      "origin": "LiMburg",
-      "city": "Landkreis Limburg-Weilburg",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Limburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LN",
-      "origin": "LübbeN",
-      "city": "Landkreis Dahme-Spreewald",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Lübben", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LÖ",
-      "origin": "LÖrrach",
-      "city": "Landkreis Lörrach",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Lörrach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LÖB",
-      "origin": "LÖBau",
-      "city": "Landkreis Görlitz",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Löbau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LOS",
-      "origin": "Landkreis Oder-Spre",
-      "city": "Landkreis Oder-Spree",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Landkreis Oder-Spree", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LP",
-      "origin": "LiPpstadt",
-      "city": "Kreis Soest",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Lippstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LR",
-      "origin": "LahR",
-      "city": "Ortenaukreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Lahr", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LRO",
-      "origin": "Landkreis ROstock",
-      "city": "Landkreis Rostock",
-      "state": "Mecklenburg-Vorpommern"
-    },
-    {
-      "plate": "LSA",
-      "origin": "Land Sachsen-Anhalt",
-      "city": "Sachsen-Anhalt, Landesregierung, Landtag und Polizei",
-      "state": "Sachsen-Anhalt"
-    },
-    {
-      "plate": "LSN",
-      "origin": "Landtag SachseN",
-      "city": "Sachsen, Landesregierung und Landtag",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Landkreis Rostock", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LSZ",
-      "origin": "LangenSalZa",
-      "city": "Unstrut-Hainich-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Langensalza", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LU",
-      "origin": "LUdwigshafen",
-      "city": "Stadt Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Ludwigshafen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LÜN",
-      "origin": "LÜNen",
-      "city": "Kreis Unna",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Lünen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LUP",
-      "origin": "LUdwigslust, Parchim",
-      "city": "Landkreis Ludwigslust-Parchim",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Ludwigslust, Parchim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "LWL",
-      "origin": "LudWigsLust",
-      "city": "Landkreis Ludwigslust-Parchim",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Ludwigslust", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "M",
-      "origin": "München",
-      "city": "Landkreis München, Stadt München (AA–ZZ 100–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "München", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MA",
-      "origin": "MAnnheim",
-      "city": "Stadt Mannheim",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Mannheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MAB",
-      "origin": "MArienBerg",
-      "city": "Erzgebirgskreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Marienberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MAI",
-      "origin": "MAInburg",
-      "city":
-          "Landkreis Kelheim, Landkreis Landshut (B, F, G, I, O und Q 1–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Mainburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MAK",
-      "origin": "MArKtredwitz",
-      "city": "Landkreis Wunsiedel im Fichtelgebirge",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Marktredwitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MAL",
-      "origin": "MALlersdorf",
-      "city": "Landkreis Landshut (B, F, G, I, O und Q 1–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Mallersdorf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MB",
-      "origin": "MiesBach",
-      "city": "Landkreis Miesbach",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Miesbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MC",
-      "origin": "MalChin",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Malchin", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MD",
-      "origin": "MagDeburg",
-      "city": "Stadt Magdeburg",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Magdeburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ME",
-      "origin": "MEttmann",
-      "city": "Kreis Mettmann",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Mettmann", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MED",
-      "origin": "MElDorf",
-      "city": "Kreis Dithmarschen",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Meldorf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MEG",
-      "origin": "MElsunGen",
-      "city": "Schwalm-Eder-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Melsungen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MEI",
-      "origin": "MEIßen",
-      "city": "Landkreis Meißen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Meißen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MEK",
-      "origin": "Mittlerer ErzgebirgsKreis",
-      "city": "Erzgebirgskreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Mittlerer Erzgebirgskreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MEL",
-      "origin": "MELle",
-      "city": "Landkreis Osnabrück",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Melle", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MER",
-      "origin": "MERseburg",
-      "city": "Saalekreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Merseburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MET",
-      "origin": "MEllrichstadT",
-      "city": "Landkreis Rhön-Grabfeld",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Mellrichstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MG",
-      "origin": "MönchenGladbach",
-      "city": "Stadt Mönchengladbach",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Mönchengladbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MGH",
-      "origin": "MerGentHeim",
-      "city": "Main-Tauber-Kreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Mergentheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MGN",
-      "origin": "MeininGeN",
-      "city": "Landkreis Schmalkalden-Meiningen",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Meiningen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MH",
-      "origin": "MülHeim",
-      "city": "Stadt Mülheim an der Ruhr",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Mülheim an der Ruhr", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MHL",
-      "origin": "MüHLhausen",
-      "city": "Unstrut-Hainich-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Mühlhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MI",
-      "origin": "MInden",
-      "city": "Kreis Minden-Lübbecke",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Minden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MIL",
-      "origin": "MILtenberg",
-      "city": "Landkreis Miltenberg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Miltenberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MK",
-      "origin": "Märkischer Kreis",
-      "city": "Märkischer Kreis",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Märkischer Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MKK",
-      "origin": "Main-Kinzig-Kreis",
-      "city": "Main-Kinzig-Kreis ohne die Stadt Hanau",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Main-Kinzig-Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ML",
-      "origin": "Mansfelder Land",
-      "city": "Landkreis Mansfeld-Südharz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Mansfelder Land", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MM",
-      "origin": "MemMingen",
-      "city": "Stadt Memmingen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Memmingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MN",
-      "origin": "MiNdelheim",
-      "city": "Landkreis Unterallgäu",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Mindelheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MO",
-      "origin": "MOers",
-      "city": "Kreis Wesel",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Moers", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MOD",
-      "origin": "MarktOberDorf",
-      "city": "Landkreis Ostallgäu",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Marktoberdorf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MOL",
-      "origin": "Märkisch-OderLand",
-      "city": "Landkreis Märkisch-Oderland",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Märkisch-Oderland", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MON",
-      "origin": "MONschau",
-      "city": "Städteregion Aachen, Kreis Düren",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Monschau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MOS",
-      "origin": "MONschau",
-      "city": "Neckar-Odenwald-Kreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Monschau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MQ",
-      "origin": "Merseburg, Querfurt",
-      "city": "Saalekreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Merseburg, Querfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MR",
-      "origin": "MaRburg",
-      "city": "Landkreis Marburg-Biedenkopf",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Marburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MS",
-      "origin": "MünSter",
-      "city": "Stadt Münster",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Münster", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MSE",
-      "origin": "Mecklenburgische SEenplatte",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Mecklenburgische Seenplatte", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MSH",
-      "origin": "Mansfeld, SüdHarz",
-      "city": "Landkreis Mansfeld-Südharz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Mansfeld, Südharz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MSP",
-      "origin": "Main, SPessart",
-      "city": "Landkreis Main-Spessart",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Main, Spessart", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MST",
-      "origin": "Mecklenburg-STrelitz",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Mecklenburg-Strelitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MTK",
-      "origin": "Main-Taunus-Kreis",
-      "city": "Main-Taunus-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Main-Taunus-Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MTL",
-      "origin": "MuldenTaL",
-      "city": "Landkreis Leipzig",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Muldental", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MÜ",
-      "origin": "MÜhldorf",
-      "city": "Landkreis Mühldorf am Inn",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Mühldorf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MÜB",
-      "origin": "MÜnchBerg",
-      "city": "Landkreis Hof, Landkreis Bayreuth (A–M 100–999 und N–Z 1–99)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Münchberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MÜR",
-      "origin": "MÜRitz",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
-    },
-    {
-      "plate": "MVL",
-      "origin": "Mecklenburg-Vorpommerscher Landtag",
-      "city": "Mecklenburg-Vorpommern, Landesregierung, Landtag und Polizei",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Müritz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MW",
-      "origin": "MittWeida",
-      "city": "Landkreis Mittelsachsen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Mittweida", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MY",
-      "origin": "MaYen",
-      "city": "Landkreis Mayen-Koblenz",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Mayen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MYK",
-      "origin": "MaYen, Koblenz",
-      "city": "Landkreis Mayen-Koblenz",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Mayen, Koblenz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MZ",
-      "origin": "MainZ",
-      "city":
-          "Landkreis Mainz-Bingen, Stadt Mainz (AA–KY 100–9999 und LA–ZZ 100–999)",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Mainz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "MZG",
-      "origin": "MerZiG",
-      "city": "Landkreis Merzig-Wadern",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Merzig", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "N",
-      "origin": "Nürnberg",
-      "city":
-          "Landkreis Nürnberger Land (A–Z 1–999), Stadt Nürnberg (A–Z 1000–9999 und AA–ZZ 100–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Nürnberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NAB",
-      "origin": "NABburg",
-      "city":
-          "Landkreis Schwandorf, Landkreis Amberg-Sulzbach (B, F und G 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Nabburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NAI",
-      "origin": "NAIla",
-      "city": "Landkreis Hof",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Naila", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NAU",
-      "origin": "NAUen",
-      "city": "Landkreis Havelland",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Nauen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NB",
-      "origin": "NeuBrandenburg",
-      "city":
-          "Stadt Neubrandenburg (große kreisangehörige Stadt im Landkreis Mecklenburgische Seenplatte)",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Neubrandenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ND",
-      "origin": "Neuburg an der Donau",
-      "city": "Landkreis Neuburg-Schrobenhausen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neuburg an der Donau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NDH",
-      "origin": "NorDHausen",
-      "city": "Landkreis Nordhausen",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Nordhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NE",
-      "origin": "NEuss",
-      "city": "Rhein-Kreis Neuss",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Neuss", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NEA",
-      "origin": "NEustadt an der Aisch",
-      "city": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neustadt an der Aisch", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NEB",
-      "origin": "NEBra",
-      "city": "Burgenlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Nebra", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NEC",
-      "origin": "NEustadt bei Coburg",
-      "city": "Stadt Coburg und Landkreis Coburg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neustadt bei Coburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NEN",
-      "origin": "NEuNburg",
-      "city": "Landkreis Schwandorf",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neunburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NES",
-      "origin": "NEustadt an der Saale",
-      "city": "Landkreis Rhön-Grabfeld",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neustadt an der Saale", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NEW",
-      "origin": "NEustadt an der Waldnaab",
-      "city": "Landkreis Neustadt an der Waldnaab",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neustadt an der Waldnaab", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NF",
-      "origin": "NordFriesland",
-      "city": "Kreis Nordfriesland",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Nordfriesland", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NH",
-      "origin": "NeuHaus",
-      "city": "Landkreis Sonneberg",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Neuhaus", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NI",
-      "origin": "NIenburg",
-      "city": "Landkreis Nienburg/Weser",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Nienburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NK",
-      "origin": "NeunKirchen",
-      "city": "Landkreis Neunkirchen",
-      "state": "Saarland"
-    },
-    {
-      "plate": "NL",
-      "origin": "Niedersächsischer Landtag",
-      "city": "Niedersachsen, Landesregierung und Landtag",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Neunkirchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NM",
-      "origin": "NeuMarkt",
-      "city": "Landkreis Neumarkt in der Oberpfalz",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neumarkt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NMB",
-      "origin": "NauMBurg",
-      "city": "Burgenlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Naumburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NMS",
-      "origin": "NeuMünSter",
-      "city": "Stadt Neumünster",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Neumünster", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NÖ",
-      "origin": "NÖrdlingen",
-      "city": "Landkreis Donau-Ries",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Nördlingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NOH",
-      "origin": "NOrdHorn",
-      "city": "Landkreis Grafschaft Bentheim",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Nordhorn", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NOL",
-      "origin": "Niederschlesische OberLausitz",
-      "city": "Landkreis Görlitz",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Niederschlesische Oberlausitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NOM",
-      "origin": "NOrtheiM",
-      "city": "Landkreis Northeim",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Northeim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NOR",
-      "origin": "NORden",
-      "city": "Landkreis Aurich",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Norden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NP",
-      "origin": "NeurupPin",
-      "city": "Landkreis Ostprignitz-Ruppin",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Neuruppin", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NR",
-      "origin": "Neuwied am Rhein",
-      "city": "Landkreis Neuwied",
-      "state": "Rheinland-Pfalz"
-    },
-    {
-      "plate": "NRW",
-      "origin": "NordRhein-Westfalen",
-      "city": "Nordrhein-Westfalen, Landesregierung, Landtag und Polizei",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Neuwied am Rhein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NT",
-      "origin": "NürTingen",
-      "city": "Landkreis Esslingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Nürtingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NU",
-      "origin": "Neu-Ulm",
-      "city": "Landkreis Neu-Ulm",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Neu-Ulm", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NVP",
-      "origin": "NordVorPommern",
-      "city": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Nordvorpommern", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NW",
-      "origin": "Neustadt an der Weinstraße",
-      "city": "Stadt Neustadt an der Weinstraße",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Neustadt an der Weinstraße", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NWM",
-      "origin": "NordWestMecklenburg",
-      "city": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Nordwestmecklenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NY",
-      "origin": "NieskY",
-      "city": "Landkreis Görlitz",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Niesky", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "NZ",
-      "origin": "NeustrelitZ",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Neustrelitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OA",
-      "origin": "OberAllgäu",
-      "city": "Landkreis Oberallgäu,",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Oberallgäu", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OAL",
-      "origin": "OstALlgäu",
-      "city": "Landkreis Ostallgäu",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Ostallgäu", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OB",
-      "origin": "OBerhausen",
-      "city": "Stadt Oberhausen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Oberhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OBB",
-      "origin": "OBernBurg",
-      "city": "Landkreis Miltenberg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Obernburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OBG",
-      "origin": "OsterBurG",
-      "city": "Landkreis Stendal",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Osterburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OC",
-      "origin": "OsChersleben",
-      "city": "Landkreis Börde",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Oschersleben", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OCH",
-      "origin": "OCHsenfurt",
-      "city": "Landkreis Würzburg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Ochsenfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OD",
-      "origin": "OlDesloe",
-      "city": "Kreis Stormarn",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Oldesloe", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OE",
-      "origin": "OlpE",
-      "city": "Kreis Olpe",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Olpe", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OF",
-      "origin": "OFfenbach",
-      "city": "Landkreis Offenbach und Stadt Offenbach am Main",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Offenbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OG",
-      "origin": "OffenburG",
-      "city": "Ortenaukreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Offenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OH",
-      "origin": "OstHolstein",
-      "city": "Kreis Ostholstein",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Ostholstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OHA",
-      "origin": "Osterode am HArz",
-      "city": "Landkreis Göttingen",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Osterode am Harz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ÖHR",
-      "origin": "ÖHRingen",
-      "city": "Hohenlohekreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Öhringen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OHV",
-      "origin": "OberHaVel",
-      "city": "Landkreis Oberhavel",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Oberhavel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OHZ",
-      "origin": "OsterHolZ",
-      "city": "Landkreis Osterholz",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Osterholz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OK",
-      "origin": "OhreKreis",
-      "city": "Landkreis Börde",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Ohrekreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OL",
-      "origin": "OLdenburg",
-      "city": "Landkreis Oldenburg, Stadt Oldenburg (AA–ZZ 100–999)",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Oldenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OP",
-      "origin": "OPladen",
-      "city": "Stadt Leverkusen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Opladen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OPR",
-      "origin": "OstPrignitz, Ruppin",
-      "city": "Landkreis Ostprignitz-Ruppin",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Ostprignitz, Ruppin", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OS",
-      "origin": "OSnabrück",
-      "city": "Stadt Osnabrück, Landkreis Osnabrück (AA–ZZ 100–999)",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Osnabrück", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OSL",
-      "origin": "OberSpreewald, Lausitz",
-      "city": "Landkreis Oberspreewald-Lausitz",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Oberspreewald, Lausitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OTW",
-      "origin": "OTtWeiler",
-      "city": "Landkreis Ottweiler",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Ottweiler", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OVI",
-      "origin": "OberVIechtach",
-      "city": "Landkreis Schwandorf",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Oberviechtach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OVL",
-      "origin": "OberVogtLand",
-      "city": "Vogtlandkreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Obervogtland", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OVP",
-      "origin": "OstVorPommern",
-      "city": "Landkreis Ostvorpommern",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Ostvorpommern", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "OZ",
-      "origin": "OschatZ",
-      "city": "Landkreis Nordsachsen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Oschatz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "P",
-      "origin": "Potsdam",
-      "city": "Stadt Potsdam",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Potsdam", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PA",
-      "origin": "PAssau",
-      "city": "Stadt Passau (A–Z 1–9999), Landkreis Passau (AA–ZZ 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Passau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PAF",
-      "origin": "PfAFfenhofen",
-      "city": "Landkreis Pfaffenhofen an der Ilm",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Pfaffenhofen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PAN",
-      "origin": "PfArrkircheN",
-      "city": "Landkreis Rottal-Inn",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Pfarrkirchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PAR",
-      "origin": "PARsberg",
-      "city":
-          "Landkreis Neumarkt in der Oberpfalz, Landkreis Kelheim (Q, Y, BB und CC 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Parsberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PB",
-      "origin": "PaderBorn",
-      "city": "Kreis Paderborn",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Paderborn", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PCH",
-      "origin": "ParCHim",
-      "city": "Landkreis Ludwigslust-Parchim",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Parchim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PE",
-      "origin": "PEine",
-      "city": "Landkreis Peine",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Peine", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PEG",
-      "origin": "PEGnitz",
-      "city":
-          "Landkreis Forchheim, Landkreis Nürnberger Land (A 1–999), Landkreis Bayreuth (B–Z 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Pegnitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PF",
-      "origin": "PForzheim",
-      "city": "Enzkreis, Stadt Pforzheim (AA–MZ 100–999 und NA–ZZ 100–9999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Pforzheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PI",
-      "origin": "PInneberg",
-      "city": "Kreis Pinneberg",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Pinneberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PIR",
-      "origin": "PIRna",
-      "city": "Landkreis Sächsische Schweiz-Osterzgebirge",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Pirna", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PL",
-      "origin": "PLauen",
-      "city": "Vogtlandkreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Plauen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PLÖ",
-      "origin": "PLÖn",
-      "city": "Kreis Plön",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Plön", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PM",
-      "origin": "Potsdam, Mittelmark",
-      "city": "Landkreis Potsdam-Mittelmark",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Potsdam, Mittelmark", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PN",
-      "origin": "PößNeck",
-      "city": "Saale-Orla-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Pößneck", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PR",
-      "origin": "PRignitz",
-      "city": "Landkreis Prignitz",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Prignitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PRÜ",
-      "origin": "PRÜm",
-      "city": "Eifelkreis Bitburg-Prüm",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Prüm", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PS",
-      "origin": "PirmaSens",
-      "city":
-          "Stadt Pirmasens (A–Z 1–9999), Landkreis Südwestpfalz (AA–ZZ 1–999)",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Pirmasens", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PW",
-      "origin": "PaseWalk",
-      "city": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Pasewalk", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "PZ",
-      "origin": "PrenZlau",
-      "city": "Landkreis Uckermark",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Prenzlau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "QFT",
-      "origin": "QuerFurT",
-      "city": "Saalekreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Querfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "QLB",
-      "origin": "QuedLinBurg",
-      "city": "Landkreis Harz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Quedlinburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "R",
-      "origin": "Regensburg",
-      "city":
-          "Landkreis Regensburg, Stadt Regensburg (AA–MM 1–999 und MN–ZZ 1000–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Regensburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RA",
-      "origin": "Württemberg",
-      "city": "Landkreis Rastatt",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Rastatt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RC",
-      "origin": "ReiChenbach",
-      "city": "Vogtlandkreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Reichenbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RD",
-      "origin": "RenDsburg",
-      "city": "Kreis Rendsburg-Eckernförde",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Rendsburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RDG",
-      "origin": "Ribnitz-DamGarten",
-      "city": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Ribnitz-Damgarten", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RE",
-      "origin": "REcklinghausen",
-      "city": "Kreis Recklinghausen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Recklinghausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "REG",
-      "origin": "REGen",
-      "city": "Landkreis Regen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Regen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "REH",
-      "origin": "REHau",
-      "city":
-          "Landkreis Hof, Landkreis Wunsiedel im Fichtelgebirge (A, E, F, H, J, M, N, P, R, S, V und X 1–999, AA, FF, GG, OO und ZZ 100–999 sowie AU 900–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Rehau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "REI",
-      "origin": "REIchenhall",
-      "city": "Landkreis Berchtesgadener Land",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Reichenhall", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RG",
-      "origin": "Riesa, Großenhain",
-      "city": "Landkreis Meißen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Riesa, Großenhain", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RH",
-      "origin": "RotH",
-      "city": "Landkreis Roth",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Roth", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RI",
-      "origin": "RInteln",
-      "city": "Landkreis Schaumburg",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Rinteln", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RID",
-      "origin": "RIeDenburg",
-      "city": "Landkreis Kelheim",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Riedenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RIE",
-      "origin": "RIEsa",
-      "city": "Landkreis Meißen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Riesa", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RL",
-      "origin": "RochLitz",
-      "city": "Landkreis Mittelsachsen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Rochlitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RM",
-      "origin": "Röbel/Müritz",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Röbel/Müritz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RN",
-      "origin": "RatheNow",
-      "city": "Landkreis Havelland",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Rathenow", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RO",
-      "origin": "ROsenheim",
-      "city": "Stadt Rosenheim, Landkreis Rosenheim (AA–ZZ 100–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Rosenheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROD",
-      "origin": "RODing",
-      "city":
-          "Landkreis Cham, Landkreis Schwandorf (B 1–500, F 1–700, G 50–400 und I 100–1000)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Roding", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROF",
-      "origin": "ROtenburg an der Fulda",
-      "city": "Landkreis Hersfeld-Rotenburg",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Rotenburg an der Fulda", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROK",
-      "origin": "ROcKenhausen",
-      "city": "Donnersbergkreis",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Rockenhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROL",
-      "origin": "ROttenburg an der Laaber",
-      "city": "Landkreis Landshut , Landkreis Kelheim (A bis Z)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Rottenburg an der Laaber", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROS",
-      "origin": "ROStock",
-      "city": "Landkreis Rostock",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Rostock", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROT",
-      "origin": "ROthenburg ob der Tauber",
-      "city": "Landkreis Ansbach",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Rothenburg ob der Tauber", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ROW",
-      "origin": "ROtenburg (Wümme)",
-      "city": "Landkreis Rotenburg (Wümme)",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Rotenburg (Wümme)", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RP",
-      "origin": "Rhein-Pfalz",
-      "city": "Rhein-Pfalz-Kreis",
-      "state": "Rheinland-Pfalz"
-    },
-    {
-      "plate": "RPL",
-      "origin": "Rheinland-Pfälzischer Landtag",
-      "city": "Rheinland-Pfalz, Landesregierung, Landtag und Polizei",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Rhein-Pfalz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RS",
-      "origin": "RemScheid",
-      "city": "Stadt Remscheid",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Remscheid", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RSL",
-      "origin": "RosSLau",
-      "city": "Stadt Dessau-Roßlau",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Rosslau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RT",
-      "origin": "ReuTlingen",
-      "city": "Landkreis Reutlingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Reutlingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RU",
-      "origin": "RUdolstadt",
-      "city": "Landkreis Saalfeld-Rudolstadt",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Rudolstadt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RÜD",
-      "origin": "RÜDesheim",
-      "city": "Rheingau-Taunus-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Rüdesheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RÜG",
-      "origin": "RÜGen",
-      "city": "Landkreis Vorpommern-Rügen",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Rügen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RV",
-      "origin": "RaVensburg",
-      "city": "Landkreis Ravensburg",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Ravensburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RW",
-      "origin": "RottWeil",
-      "city": "Landkreis Rottweil",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Rottweil", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "RZ",
-      "origin": "RatZeburg",
-      "city": "Kreis Herzogtum Lauenburg",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Ratzeburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "S",
-      "origin": "Stuttgart",
-      "city": "Stadt Stuttgart",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Stuttgart", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SAB",
-      "origin": "SAarBurg",
-      "city": "Landkreis Trier-Saarburg",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Saarburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SAD",
-      "origin": "SchwAnDorf",
-      "city": "Landkreis Schwandorf",
-      "state": "Bayern"
-    },
-    {
-      "plate": "SAL",
-      "origin": "SAarländischer Landtag",
-      "city": "Saarland, Landesregierung, Landtag und Polizei",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Schwandorf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SAN",
-      "origin": "StAdtsteiNach",
-      "city":
-          "Landkreis Hof (W–Z 1–999), Landkreis Kulmbach (A–R 1–9999 und JA–ZZ 1–999), Landkreis Kronach (S–V 1–9999 und AA–IZ 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Stadtsteinach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SAW",
-      "origin": "SAlzWedel",
-      "city": "Altmarkkreis Salzwedel",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Salzwedel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SÄK",
-      "origin": "SÄcKingen",
-      "city": "Landkreis Säckingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Säckingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SB",
-      "origin": "SaarBrücken",
-      "city": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Saarbrücken", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SBG",
-      "origin": "StrasBurG",
-      "city": "Landkreis Vorpommern-Greifswald",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Strasburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SBK",
-      "origin": "SchöneBecK",
-      "city": "Salzlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Schönebeck", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SC",
-      "origin": "SChwabach",
-      "city": "Stadt Schwabach",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Schwabach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SCZ",
-      "origin": "SChleiZ",
-      "city": "Saale-Orla-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Schleiz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SDH",
-      "origin": "SonDersHausen",
-      "city": "Kyffhäuserkreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Sondershausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SDL",
-      "origin": "StenDaL",
-      "city": "Landkreis Stendal",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Stendal", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SDT",
-      "origin": "SchweDT",
-      "city": "Landkreis Uckermark",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Schwedt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SE",
-      "origin": "SEgeberg",
-      "city": "Kreis Segeberg",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Segeberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SEB",
-      "origin": "SEBnitz",
-      "city": "Landkreis Sächsische Schweiz-Osterzgebirge",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Sebnitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SEE",
-      "origin": "SEElow",
-      "city": "Landkreis Märkisch-Oderland",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Seelow", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SEF",
-      "origin": "SchEinFeld",
-      "city": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Scheinfeld", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SEL",
-      "origin": "SELb",
-      "city": "Landkreis Wunsiedel im Fichtelgebirge",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Selb", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SFB",
-      "origin": "SenFtenBerg",
-      "city": "Landkreis Oberspreewald-Lausitz",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Senftenberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SFT",
-      "origin": "StaßFurT",
-      "city": "Salzlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Staßfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SG",
-      "origin": "SolinGen",
-      "city": "Stadt Solingen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Solingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SGH",
-      "origin": "SanGerHausen",
-      "city": "Landkreis Mansfeld-Südharz",
-      "state": "Sachsen-Anhalt"
-    },
-    {
-      "plate": "SH",
-      "origin": "Schleswig-Holstein",
-      "city": "Schleswig-Holstein, Landesregierung, Landtag und Polizei",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Sangerhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SHA",
-      "origin": "Schwäbisch HAll",
-      "city": "Landkreis Schwäbisch Hall",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Schwäbisch Hall", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SHG",
-      "origin": "StadtHaGen",
-      "city": "Landkreis Schaumburg",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Stadthagen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SHK",
-      "origin": "Saale-Holzland-Kreis",
-      "city": "Saale-Holzland-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Saale-Holzland-Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SHL",
-      "origin": "SuHL",
-      "city": "Stadt Suhl",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Suhl", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SI",
-      "origin": "SIegen",
-      "city": "Kreis Siegen-Wittgenstein",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Siegen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SIG",
-      "origin": "SIGmaringen",
-      "city": "Landkreis Sigmaringen",
-      "state": "Baden-Württemberg"
-    },
-    {
-      "plate": "SIH",
-      "origin": "aus dem Film \"Hanne\"",
-      "city": "fiktiver Ort",
-      "state": "Filmproduktion"
+      "answers": [
+        {"answer": "Sigmaringen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SIM",
-      "origin": "SIMmern",
-      "city": "Rhein-Hunsrück-Kreis",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Simmern", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SK",
-      "origin": "SaaleKreis",
-      "city": "Saalekreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Saalekreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SL",
-      "origin": "SchLeswig",
-      "city": "Kreis Schleswig-Flensburg",
-      "state": "Schleswig-Holstein"
+      "answers": [
+        {"answer": "Schleswig", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLE",
-      "origin": "SchLEiden",
-      "city": "Kreis Düren, Kreis Euskirchen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Schleiden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLF",
-      "origin": "SaaLFeld",
-      "city": "Landkreis Saalfeld-Rudolstadt",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Saalfeld", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLG",
-      "origin": "SauLGau",
-      "city": "Landkreis Saulgau",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Saulgau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLK",
-      "origin": "SalzLandKreis",
-      "city": "Salzlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Salzlandkreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLN",
-      "origin": "SchmölLN",
-      "city": "Landkreis Altenburger Land",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Schmölln", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLS",
-      "origin": "SaarLouiS",
-      "city": "Landkreis Saarlouis",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Saarlouis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLÜ",
-      "origin": "SchLÜchtern",
-      "city": "Main-Kinzig-Kreis ohne die Stadt Hanau",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Schlüchtern", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SLZ",
-      "origin": "SaLZungen",
-      "city": "Wartburgkreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Salzungen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SM",
-      "origin": "SchMalkalden",
-      "city": "Landkreis Schmalkalden-Meiningen",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Schmalkalden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SMÜ",
-      "origin": "SchwabMÜnchen",
-      "city": "Landkreis Augsburg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Schwabmünchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SN",
-      "origin": "SchweriN",
-      "city": "Stadt Schwerin",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Schwerin", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SO",
-      "origin": "SOest",
-      "city": "Kreis Soest",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Soest", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SOB",
-      "origin": "SchrOBenhausen",
-      "city": "Landkreis Neuburg-Schrobenhausen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Schrobenhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SOG",
-      "origin": "SchOnGau",
-      "city": "Landkreis Weilheim-Schongau",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Schongau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SOK",
-      "origin": "Saale-Orla-Kreis",
-      "city": "Saale-Orla-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Saale-Orla-Kreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SÖM",
-      "origin": "SÖMmerda",
-      "city": "Landkreis Sömmerda",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Sömmerda", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SON",
-      "origin": "SONneberg",
-      "city": "Landkreis Sonneberg",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Sonneberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SP",
-      "origin": "SPeyer",
-      "city": "Stadt Speyer",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Speyer", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SPB",
-      "origin": "SPremBerg",
-      "city": "Landkreis Spree-Neiße",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Spremberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SPN",
-      "origin": "SPree, Neiße",
-      "city": "Landkreis Spree-Neiße",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Spree, Neiße", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SR",
-      "origin": "StRaubing",
-      "city":
-          "Stadt Straubing (A–Z 1–9999), Landkreis Straubing-Bogen (AA–ZZ 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Straubing", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SRB",
-      "origin": "StRausBerg",
-      "city": "Landkreis Märkisch-Oderland",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Strausberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SRO",
-      "origin": "StadtROda",
-      "city": "Saale-Holzland-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Stadtroda", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ST",
-      "origin": "STeinfurt",
-      "city": "Kreis Steinfurt",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Steinfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "STA",
-      "origin": "STArnberg",
-      "city": "Landkreis Starnberg",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Starnberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "STB",
-      "origin": "STernBerg",
-      "city": "Landkreis Ludwigslust-Parchim",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Sternberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "STD",
-      "origin": "STaDe",
-      "city": "Landkreis Stade",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Stade", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "STE",
-      "origin": "STaffelstEin",
-      "city": "Landkreis Lichtenfels",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Staffelstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "STL",
-      "origin": "STolLberg",
-      "city": "Erzgebirgskreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Stollberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "STO",
-      "origin": "STOckach",
-      "city": "Landkreis Stockach",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Stockach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SU",
-      "origin": "SiegbUrg",
-      "city": "Rhein-Sieg-Kreis",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Siegburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SUL",
-      "origin": "SULzbach",
-      "city": "Landkreis Amberg-Sulzbach",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Sulzbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SÜW",
-      "origin": "SÜdliche Weinstraße",
-      "city": "Landkreis Südliche Weinstraße",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Südliche Weinstraße", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SW",
-      "origin": "SchWeinfurt",
-      "city": "Stadt Schweinfurt, Landkreis Schweinfurt (AA–ZZ 100–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Schweinfurt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SWA",
-      "origin": "SchWAlbach",
-      "city": "Rheingau-Taunus-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Schwalbach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SY",
-      "origin": "SYke",
-      "city": "Landkreis Diepholz",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Syke", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SZ",
-      "origin": "SalZgitter",
-      "city": "Stadt Salzgitter",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Salzgitter", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "SZB",
-      "origin": "SchwarZenBerg",
-      "city": "Erzgebirgskreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Schwarzenberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TBB",
-      "origin": "TauBerBischofsheim",
-      "city": "Main-Tauber-Kreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Tauberbischofsheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TDO",
-      "origin": "Torgau, Delitzsch, Oschatz",
-      "city": "Landkreis Nordsachsen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Torgau, Delitzsch, Oschatz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TE",
-      "origin": "TEcklenburg",
-      "city": "Kreis Steinfurt",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Tecklenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TET",
-      "origin": "TETerow",
-      "city": "Landkreis Rostock",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Teterow", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TF",
-      "origin": "Teltow, Fläming",
-      "city": "Landkreis Teltow-Fläming",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Teltow, Fläming", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TG",
-      "origin": "TorGau",
-      "city": "Landkreis Nordsachsen",
-      "state": "Sachsen"
-    },
-    {
-      "plate": "THL",
-      "origin": "THüringer Landtag",
-      "city": "Thüringen, Landesregierung und Landtag",
-      "state": "Thüringen"
-    },
-    {
-      "plate": "THW",
-      "origin": "Technisches HilfsWerk",
-      "city": "Bundesanstalt Technisches Hilfswerk",
-      "state": "bundesweit"
+      "answers": [
+        {"answer": "Torgau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TIR",
-      "origin": "TIRschenreuth",
-      "city": "Landkreis Tirschenreuth",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Tirschenreuth", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TO",
-      "origin": "Torgau, Oschatz",
-      "city": "Landkreis Nordsachsen",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Torgau, Oschatz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TÖL",
-      "origin": "TÖLz",
-      "city": "Landkreis Bad Tölz-Wolfratshausen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Tölz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TP",
-      "origin": "TemPlin",
-      "city": "Landkreis Uckermark",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Templin", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TR",
-      "origin": "TRier",
-      "city": "Landkreis Trier-Saarburg und Stadt Trier",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Trier", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TS",
-      "origin": "TraunStein",
-      "city": "Landkreis Traunstein",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Traunstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TT",
-      "origin": "TeTtnang",
-      "city": "Bodenseekreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Tettnang", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TÜ",
-      "origin": "TÜbingen",
-      "city": "Landkreis Tübingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Tübingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "TUT",
-      "origin": "TUTtlingen",
-      "city": "Landkreis Tuttlingen",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Tuttlingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UE",
-      "origin": "UElzen",
-      "city": "Landkreis Uelzen",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Uelzen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UEM",
-      "origin": "UEckerMünde",
-      "city": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Ueckermünde", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UFF",
-      "origin": "UFFenheim",
-      "city": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Uffenheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UH",
-      "origin": "Unstrut, Hainich",
-      "city": "Unstrut-Hainich-Kreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Unstrut, Hainich", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UL",
-      "origin": "ULm",
-      "city": "Stadt Ulm, Alb-Donau-Kreis (AA–MZ 100–999 und NA–ZZ 100–9999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Ulm", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UM",
-      "origin": "UckerMark",
-      "city": "Landkreis Uckermark",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Uckermark", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "UN",
-      "origin": "UNna",
-      "city": "Kreis Unna",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Unna", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "USI",
-      "origin": "USIngen",
-      "city": "Hochtaunuskreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Usingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ÜB",
-      "origin": "ÜBerlingen",
-      "city": "Bodenseekreis, Landkreis Ravensburg",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Überlingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "V",
-      "origin": "Vogtland",
-      "city": "Vogtlandkreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Vogtland", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VAI",
-      "origin": "VAIhingen",
-      "city": "Landkreis Ludwigsburg",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Vaihingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VB",
-      "origin": "VogelsBerg",
-      "city": "Vogelsbergkreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Vogelsberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VEC",
-      "origin": "VEChta",
-      "city": "Landkreis Vechta",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Vechta", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VER",
-      "origin": "VERden",
-      "city": "Landkreis Verden",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Verden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VG",
-      "origin": "Vorpommern, Greifswald",
-      "city": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Vorpommern, Greifswald", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VIB",
-      "origin": "VIlsBiburg",
-      "city":
-          "Landkreis Landshut, Landkreis Rottal-Inn (B, I, O und Q 100–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Vilsbiburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VIE",
-      "origin": "VIErsen",
-      "city": "Kreis Viersen",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Viersen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VIT",
-      "origin": "VIechTach",
-      "city": "Landkreis Regen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Viechtach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VK",
-      "origin": "VölKlingen",
-      "city": "Stadt Völklingen (Mittelstadt im Regionalverband Saarbrücken)",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Völklingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VOH",
-      "origin": "VOHenstrauß",
-      "city": "Landkreis Neustadt an der Waldnaab",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Vohenstrauß", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VR",
-      "origin": "Vorpommern, Rügen",
-      "city": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Vorpommern, Rügen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "VS",
-      "origin": "Villingen-Schwenningen",
-      "city": "Schwarzwald-Baar-Kreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Villingen-Schwenningen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "W",
-      "origin": "Wuppertal",
-      "city": "Stadt Wuppertal",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Wuppertal", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WA",
-      "origin": "WAldeck",
-      "city": "Landkreis Waldeck-Frankenberg",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Waldeck", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WAF",
-      "origin": "WArendorF",
-      "city": "Kreis Warendorf",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Warendorf", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WAK",
-      "origin": "WArtburgKreis",
-      "city": "Wartburgkreis",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Wartburgkreis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WAN",
-      "origin": "WANne",
-      "city": "Stadt Herne",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Wanne", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WAT",
-      "origin": "WATtenscheid",
-      "city": "Stadt Bochum",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Wattenscheid", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WB",
-      "origin": "WittenBerg",
-      "city": "Landkreis Wittenberg",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Wittenberg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WBS",
-      "origin": "WorBiS",
-      "city": "Landkreis Eichsfeld",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Worbis", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WDA",
-      "origin": "WerDAu",
-      "city": "Landkreis Zwickau",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Werdau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WE",
-      "origin": "WEimar",
-      "city": "Stadt Weimar",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Weimar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WEL",
-      "origin": "WEiLburg",
-      "city": "Landkreis Limburg-Weilburg",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Weilburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WEN",
-      "origin": "WEideN",
-      "city": "Stadt Weiden in der Oberpfalz",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Weiden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WER",
-      "origin": "WERtingen",
-      "city":
-          "Landkreis Dillingen an der Donau, Landkreis Augsburg (A–Z 7000–9999 und YA–YZ 1–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Wertingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WES",
-      "origin": "WESel",
-      "city": "Kreis Wesel",
-      "state": "Nordrhein-Westfalen"
+      "answers": [
+        {"answer": "Wesel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WF",
-      "origin": "WolFenbüttel",
-      "city": "Landkreis Wolfenbüttel",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Wolfenbüttel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WG",
-      "origin": "WanGen",
-      "city": "Landkreis Ravensburg",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Wangen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WHV",
-      "origin": "WilhelmsHaVen",
-      "city": "Stadt Wilhelmshaven",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Wilhelmshaven", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WI",
-      "origin": "WIesbaden",
-      "city": "Stadt Wiesbaden",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Wiesbaden", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WIL",
-      "origin": "WIttLich",
-      "city": "Landkreis Bernkastel-Wittlich",
-      "state": "Rheinland-Pfalz"
-    },
-    {
-      "plate": "WIN",
-      "origin": "aus der Serie \"Dark\"",
-      "city": "Winden (fiktiver Ort)",
-      "state": "Filmproduktion"
+      "answers": [
+        {"answer": "Wittlich", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WIS",
-      "origin": "WISmar",
-      "city": "Landkreis Nordwestmecklenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Wismar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WIT",
-      "origin": "WITten",
-      "city": "Ennepe-Ruhr-Kreis",
-      "state": "Nordrhein-Westfalen"
-    },
-    {
-      "plate": "WIV",
-      "origin": "aus dem Film \"Hanne\"",
-      "city": "fiktiver Ort",
-      "state": "Filmproduktion"
+      "answers": [
+        {"answer": "Witten", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WIZ",
-      "origin": "WItZenhausen",
-      "city": "Werra-Meißner-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Witzenhausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WK",
-      "origin": "WittstocK",
-      "city": "Landkreis Ostprignitz-Ruppin",
-      "state": "Brandenburg"
+      "answers": [
+        {"answer": "Wittstock", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WL",
-      "origin": "Winsen (Luhe)",
-      "city": "Landkreis Harburg",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Winsen (Luhe)", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WLG",
-      "origin": "WoLGast",
-      "city": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Wolgast", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WM",
-      "origin": "WeilheiM",
-      "city": "Landkreis Weilheim-Schongau",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Weilheim", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WMS",
-      "origin": "WolMirStedt",
-      "city": "Landkreis Börde",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Wolmirstedt", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WN",
-      "origin": "WaiblingeN",
-      "city": "Rems-Murr-Kreis",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Waiblingen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WND",
-      "origin": "WeNDel",
-      "city": "Landkreis St. Wendel",
-      "state": "Saarland"
+      "answers": [
+        {"answer": "Wendel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WO",
-      "origin": "WOrms",
-      "city": "Stadt Worms",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Worms", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WOB",
-      "origin": "WOlfsBurg",
-      "city": "Stadt Wolfsburg",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Wolfsburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WOH",
-      "origin": "WOlfHagen",
-      "city": "Landkreis Kassel",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Wolfhagen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WOL",
-      "origin": "WOLfach",
-      "city": "Ortenaukreis, Landkreis Freudenstadt (A bis E 9000–9999)",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Wolfach", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WOR",
-      "origin": "WOlfRatshausen",
-      "city":
-          "Landkreis Bad Tölz-Wolfratshausen, Landkreis München (F und O 10–9999), Landkreis Starnberg (B und G 10–9999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Wolfratshausen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WOS",
-      "origin": "WOlfStein",
-      "city": "Landkreis Freyung-Grafenau",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Wolfstein", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WR",
-      "origin": "WernigeRode",
-      "city": "Landkreis Harz",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Wernigerode", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WRN",
-      "origin": "WaReN",
-      "city":
-          "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-      "state": "Mecklenburg-Vorpommern"
+      "answers": [
+        {"answer": "Waren", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WS",
-      "origin": "WasSerburg",
-      "city": "Landkreis Rosenheim",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Wasserburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WSF",
-      "origin": "WeisSenFels",
-      "city": "Burgenlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Weissenfels", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WST",
-      "origin": "WesterSTede",
-      "city": "Landkreis Ammerland",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Westerstede", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WSW",
-      "origin": "WeisSWasser",
-      "city": "Landkreis Görlitz",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Weisswasser", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WT",
-      "origin": "WaldshuT",
-      "city": "Landkreis Waldshut",
-      "state": "Baden-Württemberg"
+      "answers": [
+        {"answer": "Waldshut", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WTL",
-      "origin": "WitTLage",
-      "city": "Landkreis Osnabrück",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Wittlage", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WTM",
-      "origin": "WitTMund",
-      "city": "Landkreis Wittmund",
-      "state": "Niedersachsen"
+      "answers": [
+        {"answer": "Wittmund", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WÜ",
-      "origin": "WÜrzburg",
-      "city":
-          "Landkreis Würzburg, Stadt Würzburg (AA–NZ 100–9999 und OA–ZZ 100–999)",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Würzburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WUG",
-      "origin": "WeißenbUrG",
-      "city": "Landkreis Weißenburg-Gunzenhausen",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Weißenburg", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WÜM",
-      "origin": "WaldMÜnchen (mit einem Buchstabendreher)",
-      "city": "Landkreis Cham",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Waldmünchen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WUN",
-      "origin": "WUNsiedel",
-      "city": "Landkreis Wunsiedel im Fichtelgebirge",
-      "state": "Bayern"
+      "answers": [
+        {"answer": "Wunsiedel", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WUR",
-      "origin": "WURzen",
-      "city": "Landkreis Leipzig",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Wurzen", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WW",
-      "origin": "WesterWald",
-      "city": "Westerwaldkreis",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Westerwald", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WZ",
-      "origin": "WetZlar",
-      "city": "Stadt Wetzlar (Sonderstatusstadt im Lahn-Dill-Kreis)",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Wetzlar", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "WZL",
-      "origin": "WanZLeben",
-      "city": "Landkreis Börde",
-      "state": "Sachsen-Anhalt"
-    },
-    {
-      "plate": "X",
-      "origin": "willkürlich gewählt",
-      "city": "Internationale Hauptquartiere (NATO)",
-      "state": "bundesweit"
-    },
-    {
-      "plate": "Y",
-      "origin": "willkürlich gewählt",
-      "city": "Bundeswehr",
-      "state": "bundesweit"
+      "answers": [
+        {"answer": "Wanzleben", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "Z",
-      "origin": "Zwickau",
-      "city": "Landkreis Zwickau",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Zwickau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZE",
-      "origin": "ZErbst",
-      "city": "Landkreis Anhalt-Bitterfeld",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Zerbst", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZEL",
-      "origin": "ZELl",
-      "city": "Landkreis Cochem-Zell",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Zell", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZI",
-      "origin": "ZIttau",
-      "city": "Landkreis Görlitz",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Zittau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZIG",
-      "origin": "ZIeGenhain",
-      "city": "Schwalm-Eder-Kreis",
-      "state": "Hessen"
+      "answers": [
+        {"answer": "Ziegenhain", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZP",
-      "origin": "ZschoPau",
-      "city": "Erzgebirgskreis",
-      "state": "Sachsen"
+      "answers": [
+        {"answer": "Zschopau", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZR",
-      "origin": "ZeulenRoda",
-      "city": "Landkreis Greiz",
-      "state": "Thüringen"
+      "answers": [
+        {"answer": "Zeulenroda", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZW",
-      "origin": "ZWeibrücken",
-      "city": "Stadt Zweibrücken, Landkreis Südwestpfalz (AA–ZZ 1–99)",
-      "state": "Rheinland-Pfalz"
+      "answers": [
+        {"answer": "Zweibrücken", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     },
     {
       "plate": "ZZ",
-      "origin": "ZeitZ",
-      "city": "Burgenlandkreis",
-      "state": "Sachsen-Anhalt"
+      "answers": [
+        {"answer": "Zeitz", "isCorrectAnswer": true},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false},
+        {"answer": "", "isCorrectAnswer": false}
+      ]
     }
   ];
 
-  static List<Map<String, dynamic>> get numberPlates {
+  static List<Map<String, Object>> get numberPlates {
     return [..._plates];
   }
 }
